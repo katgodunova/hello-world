@@ -2,4 +2,4 @@
 
 Hi, humans!
 
-My name is sk8. I want to learn how to code.
+sk8 here. I want to learn how to code.
